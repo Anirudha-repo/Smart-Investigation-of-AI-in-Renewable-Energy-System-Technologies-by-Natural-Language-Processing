@@ -69,7 +69,7 @@ Then, open either notebook in Jupyter or Google Colab and run the cells sequenti
 
 ## Key Findings
 **1. Using LDA Algorithm**
-The LDA analysis revealed four major metatopics, providing a clear overview of the research landscape. The key findings from this analysis are:
+- The LDA analysis revealed four major metatopics, providing a clear overview of the research landscape. The key findings from this analysis are:
 
 **1. Most Prominent Research Areas:**
 * **"Smart Grid & Energy Management"** and **"AI Models and Optimization"** emerged as the two most dominant areas of research, as shown by the topic distribution plot. This indicates a strong focus on both the application of AI for managing energy systems and the development of the underlying algorithms themselves.
@@ -91,6 +91,5 @@ In conclusion, the LDA model provides a clear picture of a dynamic research fiel
 - Research is shifting from basic ML models to advanced optimization strategies and policy-aware AI systems, offering decision-makers actionable roadmaps for energy innovation.
 
 ## References
-
   - The methodology for this project is inspired by the research paper: "Smart investigation of artificial intelligence in renewable energy system technologies by natural language processing: Insightful pattern for decision-makers."
   - Data was collected from the Scopus database using the provided search engine code.
