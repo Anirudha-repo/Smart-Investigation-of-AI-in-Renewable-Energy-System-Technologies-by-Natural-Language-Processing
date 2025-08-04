@@ -68,7 +68,7 @@ pip install pandas bertopic tf-keras
 Then, open either notebook in Jupyter or Google Colab and run the cells sequentially to reproduce the analysis.
 
 ## Key Findings
-**1. Using LDA Algorithm**
+### Using LDA Algorithm
 - The LDA analysis revealed four major metatopics, providing a clear overview of the research landscape. The key findings from this analysis are:
 
 **1. Most Prominent Research Areas:**
@@ -83,7 +83,8 @@ Then, open either notebook in Jupyter or Google Colab and run the cells sequenti
 
 In conclusion, the LDA model provides a clear picture of a dynamic research field where the application of AI for forecasting and smart grid management is expanding rapidly, driven by the increasing use of advanced deep learning and optimization techniques.
 
-**2. Using BERTopic**
+### Using BERTopic
+
 - Solar Energy Systems emerged as the most dominant research focus, highlighting strong interest in photovoltaic optimization and solar forecasting.
 - AI & Deep Learning models (e.g., CNNs, LSTM, ANN) are increasingly being applied for intelligent energy management and demand prediction.
 - Wind Power Forecasting & Grid Integration remains a major theme, emphasizing the need for real-time predictions and seamless power distribution.
